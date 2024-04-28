@@ -82,6 +82,9 @@ devDependencies:
   cookie-parser:
     specifier: ^1.4.6
     version: 1.4.6
+  dotenv:
+    specifier: ^16.4.5
+    version: 16.4.5
   eslint:
     specifier: ^8.0.1
     version: 8.57.0
